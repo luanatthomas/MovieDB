@@ -1,0 +1,130 @@
+[
+    {
+        "title": "Avatar: o Caminho da Água",
+        "rate": "7.7",
+        "description": "12 anos depois de explorar Pandora e se juntar aos Na'vi, Jake Sully formou uma família com Neytiri e se estabeleceu entre os clãs do novo mundo. Porém, a paz não durará para sempre.",
+        "id": 1001,
+        "imageName": "avatar",
+        "genres" : "Ficção científica, Aventura, Ação"
+    },
+    {
+        "title": "John Wick 4: Baba Yaga",
+        "rate": "8.2",
+        "description": "Com o preço por sua cabeça cada vez maior, John Wick leva sua luta contra a alta mesa global enquanto procura os jogadores mais poderosos do submundo, de Nova York a Paris, de Osaka a Berlim.",
+        "id": 1002,
+        "imageName": "johnwick",
+        "genres" : "Ficção científica, Aventura, Ação"
+    },
+    {
+        "title": "O agente noturno",
+        "rate": "7.8",
+        "description": "A série acompanha um agente de baixo escalão do FBI que trabalha no porão da Casa Branca, a postos para atender um telefone que nunca toca. Até que um dia, ele recebe uma ligação que acaba revelando uma perigosa conspiração contra o governo dos Estados Unidos.",
+        "id": 1003,
+        "imageName": "oagentenoturno",
+        "genres" : "Ficção científica, Aventura, Ação"
+    },
+    {
+        "title": "The Mandalorian",
+        "rate": "8.5",
+        "description": "A saga de um guerreiro solitário, que também é um mercenário e pistoleiro, viajando pelos territórios esquecidos e marginais do espaço, logo após a queda do Império e antes da criação da temida Primeira Ordem",
+        "id": 1004,
+        "imageName": "mandalorian",
+        "genres" : "Ficção científica, Aventura, Ação"
+    },
+    {
+        "title": "The Last of Us",
+        "rate": "8.8",
+        "description": "Situado duas décadas após a implosão de nossa sociedade, o drama seguirá Joel, um sobrevivente difícil, que é contratado para contrabandear uma garota de 14 anos chamada Ellie para fora de uma zona de quarentena opressiva. O que começa como um pequeno trabalho logo se torna uma jornada brutal e de partir o coração, já que os dois precisam atravessar os Estados Unidos e dependem um do outro para sobreviver.",
+        "id": 1005,
+        "imageName": "thelastofus",
+        "genres" : "Ficção científica, Aventura, Ação"
+    },
+    {
+        "title": "Adão Negro",
+        "rate": "7.1",
+        "description": "Quase 5.000 anos depois de ter sido concedido com os poderes onipotentes dos deuses egípcios - e de ter sido preso, - Adão Negro se ergue de seu túmulo, pronto para trazer sua justiça ao mundo moderno.",
+        "id": 1006,
+        "imageName": "adaonegro",
+        "genres" : "Ficção científica, Aventura, Ação"
+    },
+    {
+        "title": "The Flash",
+        "rate": "7.8",
+        "description": "Um perito forense desperta de um coma com poderes especiais que serão postos à prova na luta contra forças que ameaçam a cidade.",
+        "id": 1007,
+        "imageName": "flash",
+        "genres" : "Ficção científica, Aventura, Ação"
+    },
+    {
+        "title": "Gato de Botas 2: O Último Pedido",
+        "rate": "8.3",
+        "description": "O Gato de Botas descobre que sua paixão pela aventura cobrou seu preço: ele queimou oito de suas nove vidas, deixando-o com apenas uma vida restante. Gato parte em uma jornada épica para encontrar o mítico Último Desejo e restaurar suas nove vidas.",
+        "id": 1008,
+        "imageName": "gatodebotas",
+        "genres" : "Ficção científica, Aventura, Ação"
+    },
+    {
+        "title": "Game of Thrones",
+        "rate": "8.4",
+        "description": "Em uma terra onde os verões podem durar vários anos e o inverno toda uma vida, sete nobres famílias lutam pelo controle da mítica terra de Westeros, dividida depois de uma guerra. Num cenário que lembra a Europa medieval, reis, rainhas, cavaleiros e renegados usam todos os meios possíveis em um jogo político pela disputa do Trono de Ferro, o símbolo do poder absoluto.",
+        "id": 1009,
+        "imageName": "guerradostronos",
+        "genres" : "Ficção científica, Aventura, Ação"
+    },
+    {
+        "title": "Lista Negra",
+        "rate": "7.6",
+        "description": "Após se entregar à polícia, um brilhante fugitivo oferece ajuda ao FBI, mas apenas se a novata Elizabeth Keen for sua parceira.",
+        "id": 1010,
+        "imageName": "listanegra",
+        "genres" : "Ficção científica, Aventura, Ação"
+    },
+    {
+        "title": "Rick & Morty",
+        "rate": "8.7",
+        "description": "Rick é um velho mentalmente desequilibrado, mas cientificamente talentoso que se reconectou recentemente com sua família. Ele passa a maior parte do tempo envolvendo o jovem neto Morty em aventuras perigosas e estranhas no espaço e em universos alternativos. Compostos à vida familiar já instável de Morty, esses eventos causam muito sofrimento a Morty em casa e na escola.",
+        "id": 1011,
+        "imageName": "rickemorty",
+        "genres" : "Ficção científica, Aventura, Ação"
+    },
+    {
+        "title": "Roubo pelos Ares",
+        "rate": "7.5",
+        "description": "Uma comissária de bordo e o namorado precisam fazer um roubo para pagar uma dívida, mas o plano pode ir pelos ares depois que o avião é sequestrado.",
+        "id": 1012,
+        "imageName": "roubopelosares",
+        "genres" : "Ficção científica, Aventura, Ação"
+    },
+    {
+        "title": "Sobrenatural",
+        "rate": "8.3",
+        "description": "Os irmãos Dean e Sam vasculham o país em busca de atividades paranormais, brigando com demônios, fantasmas e monstros no caminho.",
+        "id": 1013,
+        "imageName": "sobrenatural",
+        "genres" : "Ficção científica, Aventura, Ação"
+    },
+    {
+        "title": "Os Simpsons",
+        "rate": "8.0",
+        "description": "Os Simpsons moram na cidade de Springfield, uma cidade americana como qualquer outra. Homer trabalha como inspetor de segurança em uma usina de energia nuclear, Marge tenta manter a paz em sua família, Bart é um travesso garoto de 10 anos, Lisa, de 8 anos, é a inteligente da família que adora tocar saxofone e é vegetariana e a pequena Maggie conquista todos enquanto não larga sua chupeta. E a série tem um rico, e muitas vezes estranho, universo de personagens que também habitam Springfield. Com roteiros inteligentes, humor subversivo e divertidamente genial, a série faz piadas de si mesma e de todo mundo que aparecer em seu caminho.",
+        "id": 1014,
+        "imageName": "ssimpsons",
+        "genres" : "Ficção científica, Aventura, Ação"
+    },
+    {
+        "title": "Pantera Negra: Wakanda para sempre",
+        "rate": "7.3",
+        "description": "A rainha Ramonda, Shuri, M'Baku, Okoye e as poderosas Dora Milaje lutam para proteger sua nação após a morte do rei T'Challa. Com a ajuda da Cão de Guerra Nakia e de Everett Ross, eles tentam encontrar um novo caminho para Wakanda.",
+        "id": 1015,
+        "imageName": "wakanda",
+        "genres" : "Ficção científica, Aventura, Ação"
+    },
+    {
+        "title": "Wandinha",
+        "rate": "8.6",
+        "description": "Inteligente, sarcástica e apática, Wandinha Addams pode estar meio morta por dentro, mas na Escola Nunca Mais ela vai fazer amigos, inimigos e investigar assassinatos.",
+        "id": 1016,
+        "imageName": "wandinha",
+        "genres" : "Ficção científica, Aventura, Ação"
+    }
+]
